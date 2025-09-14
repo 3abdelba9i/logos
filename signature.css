@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.signature-table {
+  border-collapse: collapse;
+}
+
+.logo-cell {
+  padding-right: 20px;
+  vertical-align: top;
+  border-right: 1px solid #009688;
+}
+
+.logo {
+  width: 120px;
+}
+
+.info-cell {
+  padding-left: 20px;
+  vertical-align: top;
+}
+
+.name {
+  margin: 0;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.title {
+  margin: 0;
+  color: #8B1D2C;
+  font-weight: bold;
+}
+
+.contact {
+  margin: 8px 0 0 0;
+  color: #555;
+}
+
+.icon {
+  width: 14px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+a {
+  color: #1a0dab;
+  text-decoration: none;
+}
